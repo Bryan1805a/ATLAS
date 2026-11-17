@@ -1,0 +1,10 @@
+# environment.yml
+name: ml_learning
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - matplotlib
+  - ipykernel
